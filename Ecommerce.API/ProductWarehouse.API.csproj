@@ -19,4 +19,8 @@
     <ProjectReference Include="..\Ecommerce.Service\ProductWarehouse.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
