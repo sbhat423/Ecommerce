@@ -1,6 +1,6 @@
-﻿namespace Product.Domain.Entities
+﻿namespace ProductWarehouse.Domain.Entities
 {
-    internal class Product
+    public class Product
     {
         public string Id { get; set; }
         public string Name { get; set; }
