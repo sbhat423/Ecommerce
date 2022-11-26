@@ -1,4 +1,4 @@
-﻿namespace Ecommerce.Service
+﻿namespace Product.Service
 {
     public class Class1
     {
